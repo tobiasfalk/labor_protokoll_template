@@ -1,0 +1,10 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Aufgabenstellung}{2}{section.1}%
+\contentsline {section}{\numberline {2}Voraussetzungen \& Grundlagen}{2}{section.2}%
+\contentsline {section}{\numberline {3}Beschreibung der Versuchsanordnung}{2}{section.3}%
+\contentsline {section}{\numberline {4}Geräteliste}{3}{section.4}%
+\contentsline {section}{\numberline {5}Versuchsdurchführung \& Messergebnisse}{5}{section.5}%
+\contentsline {section}{\numberline {6}Auswertung}{5}{section.6}%
+\contentsline {section}{\numberline {7}Diskussion}{5}{section.7}%
+\contentsline {section}{\numberline {8}Zusammenfassung}{5}{section.8}%
+\contentsline {section}{Literatur}{5}{section*.6}%

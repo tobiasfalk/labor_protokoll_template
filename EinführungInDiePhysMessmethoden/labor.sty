@@ -68,6 +68,9 @@
     \newcommand{\td}{\todo[inline]}                 %for fast inline todo annotations
 \usepackage[normalem]{ulem}                         %strike through text
 
+\usepackage{hhline}
+\usepackage{pdflscape}
+\usepackage{tabularx}
 
 
 %custom operators, https://www.overleaf.com/learn/latex/Operators#Defining_your_own_operators
@@ -120,5 +123,5 @@
 \pagestyle{fancyplain}
 \fancyhead[L]{\semester \\ \thedate}
 \fancyhead[C]{Gruppe \groupnumber \\ \theauthor}
-\fancyhead[R]{Labor \laboratorynumber \\ \thetitle}
+\fancyhead[R]{\ \\ \thetitle}
 \fancyfoot[C]{\thepage{ }/ \pageref*{LastPage}}
